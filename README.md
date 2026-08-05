@@ -6,14 +6,14 @@
 
 ## 📬 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:yuna38748435@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:yuna1313@naver.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://yuna1313.tistory.com)
 
 ---
 
 ## 💡 About Me
 
-- 💻 5년차 Backend Developer
+- 💻 4년차 Backend Developer
 - 🌱 Java / Spring 기반 서버 개발
 - 🚀 Node.js 환경 경험
 - 🗄 DB 이중화 및 서버 운영 경험
