@@ -5,7 +5,7 @@
 <br/>
 
 ## 📬 Contact
-[![Naver](https://img.shields.io/badge/naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white)](mailto:yuna1313@naver.com)
+[![Naver](https://img.shields.io/badge/naver-%2303C75A?style=flat-square&logo=naver&logoColor=white)](mailto:yuna1313@naver.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://yuna1313.tistory.com)
 
 ---
